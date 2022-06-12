@@ -37,7 +37,7 @@
 </p>
  -->
  
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/ti5a.png" alt="TryHackMe"><p>
+<p><script src="https://tryhackme.com/badge/82417"></script></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kop3sh&show_icons=true&locale=en&layout=compact" alt="Kop3sh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kop3sh&show_icons=true&locale=en" alt="Kop3sh" /></p>
